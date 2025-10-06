@@ -20,3 +20,11 @@
     font-size: 2.25rem;
     text-align: center;
 }
+.app-icon{
+    width: 25px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 8px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
