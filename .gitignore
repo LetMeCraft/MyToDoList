@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.vscode/
+.env
+npm-debug.log
+/dist
+/.parcel-cache
+*.log
