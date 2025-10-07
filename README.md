@@ -29,7 +29,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/LetMeCraft/my-to-do-list-.git
+git remote add origin https://github.com/LetMeCraft/MyToDoList.git
 git push -u origin main
 ```
 
